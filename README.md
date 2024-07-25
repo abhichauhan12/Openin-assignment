@@ -18,7 +18,7 @@ Hello there, This project is OpenIn Assignment that uses Jetpack Compose for the
 - [Android](https://www.android.com/intl/en_in/)
 
 ## APK 
-- [APK](https://drive.google.com/file/d/1POeTH3us6Mc7zT0ji3LCFGM7mw61A6D3/view?usp=sharing)
+- [APK](https://drive.google.com/file/d/11bwtRRXQumHOfZjvLTZm1Yitg_mdYFi-/view?usp=sharing)
   
 
 ## Here are the some screenshots of the application.
