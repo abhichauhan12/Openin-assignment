@@ -1,4 +1,4 @@
-# Music Player
+# OpenIn
 
 Hello there, This project is OpenIn Assignment that uses Jetpack Compose for the UI, Hilt for dependency injection, and the MPAndroidChart library for displaying line charts. This project demonstrates how to fetch data from an API, display it in a Composable function, and use Glide to load images in Jetpack Compose.
 
